@@ -1,4 +1,4 @@
-package DesignPatterns.StrategyPattern;
+package DesignPatterns.BehaviouralPatterns.StrategyPattern;
 
 public class HTMLFormatter implements TextFormatter {
 

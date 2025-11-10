@@ -1,4 +1,4 @@
-package DesignPatterns.StrategyPattern;
+package DesignPatterns.BehaviouralPatterns.StrategyPattern;
 // This class represents a document that can have its content formatted using different strategies.
 
 public class Document {

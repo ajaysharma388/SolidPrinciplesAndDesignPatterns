@@ -1,4 +1,4 @@
-package DesignPatterns.MementoPattern;
+package DesignPatterns.BehaviouralPatterns.MementoPattern;
 
 // The GraphicEditor class manages the properties of shapes and provides functionality to save and restore their state using the Memento pattern.
 

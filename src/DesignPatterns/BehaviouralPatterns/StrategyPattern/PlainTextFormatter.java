@@ -1,4 +1,4 @@
-package DesignPatterns.StrategyPattern;
+package DesignPatterns.BehaviouralPatterns.StrategyPattern;
 
 public class PlainTextFormatter implements TextFormatter {
 

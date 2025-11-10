@@ -1,4 +1,4 @@
-package DesignPatterns.StrategyPattern;
+package DesignPatterns.BehaviouralPatterns.StrategyPattern;
 
 // This class manages the formatting process of a document using various text formatting strategies.
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package DesignPatterns.ObserverPattern;
+package DesignPatterns.BehaviouralPatterns.ObserverPattern;
 
 // The Subject interface defines methods for registering, removing, and notifying observers about stock price changes.
 

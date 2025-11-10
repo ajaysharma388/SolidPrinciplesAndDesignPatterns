@@ -1,4 +1,4 @@
-package DesignPatterns.MementoPattern;
+package DesignPatterns.BehaviouralPatterns.MementoPattern;
 
 import java.util.Scanner;
 
