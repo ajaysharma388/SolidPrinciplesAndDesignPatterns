@@ -1,0 +1,1 @@
+this module will contain the Structural design patterns.
