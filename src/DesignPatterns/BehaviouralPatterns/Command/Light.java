@@ -1,4 +1,4 @@
-package DesignPatterns.BehaviouralPatterns.CommandPattern;
+package DesignPatterns.BehaviouralPatterns.Command;
 
 public class Light {
 

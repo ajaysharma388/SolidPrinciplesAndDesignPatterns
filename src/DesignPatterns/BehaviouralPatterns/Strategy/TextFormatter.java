@@ -1,4 +1,4 @@
-package DesignPatterns.BehaviouralPatterns.StrategyPattern;
+package DesignPatterns.BehaviouralPatterns.Strategy;
 
 public interface TextFormatter {
     String format(String text);

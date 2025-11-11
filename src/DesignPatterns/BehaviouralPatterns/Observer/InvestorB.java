@@ -1,4 +1,4 @@
-package DesignPatterns.BehaviouralPatterns.ObserverPattern;
+package DesignPatterns.BehaviouralPatterns.Observer;
 
 public class InvestorB implements Observer {
 

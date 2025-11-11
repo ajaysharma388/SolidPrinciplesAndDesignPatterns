@@ -1,4 +1,4 @@
-package DesignPatterns.BehaviouralPatterns.MementoPattern;
+package DesignPatterns.BehaviouralPatterns.Memento;
 
 // The EditorMemento class stores the state of a shape, allowing for the preservation and restoration of its attributes in the Memento pattern.
 public record EditorMemento(String shapeType, int x, int y, String color, int size) {

@@ -1,4 +1,4 @@
-package DesignPatterns.BehaviouralPatterns.ObserverPattern;
+package DesignPatterns.BehaviouralPatterns.Observer;
 // The Exercise class simulates stock price updates, registers investors, and removes an observer after the 4th update.
 
 import java.util.Scanner;

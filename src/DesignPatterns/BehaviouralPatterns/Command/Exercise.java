@@ -1,4 +1,4 @@
-package DesignPatterns.BehaviouralPatterns.CommandPattern;
+package DesignPatterns.BehaviouralPatterns.Command;
 
 // This class is responsible for creating devices, commands, and a remote control to demonstrate the command pattern functionality.
 

@@ -1,4 +1,4 @@
-package DesignPatterns.BehaviouralPatterns.StrategyPattern;
+package DesignPatterns.BehaviouralPatterns.Strategy;
 
 public class MarkdownFormatter implements TextFormatter {
 
